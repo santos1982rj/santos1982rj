@@ -59,6 +59,6 @@ function dev(name, age, work) {
 <a href="https://instagram.com/santos1982rj"><img src="https://img.shields.io/badge/-@santos1982rj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
  
-  ![Snake animation](https://github.com/santos1982rj/santos1982rj/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/santos1982rj/santos1982rj/blob/output/github-contribution-grid-snake.svg) -->
  
-</div>
+
