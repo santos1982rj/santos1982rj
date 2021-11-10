@@ -9,13 +9,22 @@ function dev(name, age, work) {
       let viniciusSantos = new dev('Vinicius Santos', 39, 'Developer front-end under construction');
       console.log(viniciusSantos);
 ```
+### Sobre Mim:
 
+Pai de um casal de filhos lindos, sou atuante, desde de 2002, na área de Infraestrutura e Suporte em TI. Ao longo dos meus 39 anos já atual em diversas empresas sempre melhorando e mantendo o ambiente extremamente funcional para os colaboradores.
 
+Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, decidi mudar o rumo profisional da minha vida entrando na área de desenvolvimento.
   
 ### Principais Hard Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+
+### Principais Soft Skills:
+
+![Colaboração](https://img.shields.io/badge/-Colabora%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
+![Flexibilidade](https://img.shields.io/badge/-flexibilidade-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
+![Comunicação](https://img.shields.io/badge/-Comunica%C3%A7%C3%A3o-05122C?style=for-the-badge&logo=&logoColor=ffffff)&nbsp;
         
 ### Ferramentas
 
@@ -32,6 +41,7 @@ function dev(name, age, work) {
 ![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=for-the-badge&logo=MYSQL)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
 ![CPanel](https://img.shields.io/badge/-CPanel-05122C?style=for-the-badge&logo=cpanel&logoColor=#e67e22)&nbsp;
+![Google Ads](https://img.shields.io/badge/-Goggle%20Ads-05122C?style=for-the-badge&logo=google-ads&logoColor=ffffff)&nbsp;
 
 ### Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
@@ -41,6 +51,8 @@ function dev(name, age, work) {
 ![React Native](https://img.shields.io/badge/-React_native-05122A?style=for-the-badge&logo=react)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=for-the-badge&logo=react)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122C?style=for-the-badge&logo=amazon-aws&logoColor=e67e22)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122C?style=for-the-badge&logo=Azure-DevOps&logoColor=3498db)&nbsp;
 
  ### GitHub Analytics:
         
