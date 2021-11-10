@@ -1,4 +1,14 @@
-## Oiii eu sou Vinicius Santos!
+## Hi! I,m Vinicius Santos
+
+```
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let viniciusSantos = new dev('Vinicius Santos', 39, 'Developer front-end under construction');
+      console.log(viniciusSantos);
+```
 <div align="center">
   <a href="https://github.com/santos1982rj">
   <img src="https://github-readme-stats.vercel.app/api?username=santos1982rj&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
