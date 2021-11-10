@@ -11,7 +11,7 @@ function dev(name, age, work) {
 ```
 ### Sobre Mim:
 
-Pai de um casal de filhos lindos, sou atuante, desde de 2002, na área de Infraestrutura e Suporte em TI. Ao longo dos meus 39 anos já atuei em diversas empresas sempre melhorando e mantendo o ambiente extremamente funcional para os colaboradores.
+Um Dev em construção, Pai de um casal de filhos lindos, sou atuante desde de 2002, na área de Infraestrutura e Suporte em TI. Ao longo dos meus 39 anos já atuei em diversas empresas sempre melhorando e mantendo o ambiente extremamente funcional para os colaboradores.
 
 Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, decidi mudar o rumo profisional da minha vida entrando na área de desenvolvimento.
   
