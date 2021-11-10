@@ -6,7 +6,7 @@ function dev(name, age, work) {
         this.age = age;
         this.work = work;
       }
-      let viniciusSantos = new dev('Vinicius Santos', 39, 'Developer front-end under construction');
+      let viniciusSantos = new dev('Vinicius Santos', 39, 'Front-End Developer under Construction');
       console.log(viniciusSantos);
 ```
 ### Sobre Mim:
