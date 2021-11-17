@@ -45,6 +45,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 
 ### Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![SASS](https://img.shields.io/badge/-sASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
 
 ### Áreas de Interesse:
 
