@@ -19,6 +19,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-sASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
 
 ### Principais Soft Skills:
 
@@ -45,7 +46,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 
 ### Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![SASS](https://img.shields.io/badge/-sASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+
 
 ### Áreas de Interesse:
 
@@ -70,6 +71,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 <a href="mailto:viniciussantosni@outlook.com"><img src="https://img.shields.io/badge/-viniciussantosni@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
     </a>
 <a href="https://instagram.com/santos1982rj"><img src="https://img.shields.io/badge/-@santos1982rj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send/?phone=5521969402841"><img src="https://img.shields.io/badge/-@santos1982rj-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
  
 <!--  ![Snake animation](https://github.com/santos1982rj/santos1982rj/blob/output/github-contribution-grid-snake.svg) -->
