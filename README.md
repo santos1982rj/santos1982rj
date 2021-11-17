@@ -35,6 +35,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
 ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion&logoColor=ffffff)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 
 ### Conhecimentos nas áreas:
 
@@ -46,6 +47,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 
 ### Estudando no momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 
 
 ### Áreas de Interesse:
