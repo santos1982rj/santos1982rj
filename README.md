@@ -33,7 +33,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=windows)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-05122A?style=for-the-badge&logo=microsoft-office)&nbsp;<br>
 ![notion](https://img.shields.io/badge/-Notion-05122A?style=for-the-badge&logo=notion&logoColor=ffffff)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 
