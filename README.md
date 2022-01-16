@@ -20,6 +20,7 @@ Sempre envolvido na área de Informática, sou um amante da Tecnologia e, hoje, 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-sASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jquery)&nbsp;
 
 ### Principais Soft Skills:
 
